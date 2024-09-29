@@ -622,10 +622,9 @@ img {
 .modal-close-btn:focus {
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
 }
 
-.modal-close-btn:hover>.modal-close-icon {
+.modal-close-btn:hover > .modal-close-icon {
   fill: #ffffff;
 }
 
